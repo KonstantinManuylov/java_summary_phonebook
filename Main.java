@@ -101,7 +101,7 @@ class MyPhonebook {
     }
 
     public static String inputString() {
-        return sc.next();
+        return sc.nextLine();
     }
 
     public static Integer inputInteger() {
